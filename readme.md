@@ -11,7 +11,7 @@
 Clone or Download this repo and navigate to the application directory
 ```bash
 git clone https://github.com/tnvkkeerthi/PLT.git
-cd PLT
+cd plt
 ```
 
 ## Run Project
